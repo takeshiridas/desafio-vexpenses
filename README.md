@@ -1,7 +1,3 @@
-# desafio-vexpenses
-
-# README.md
-
 ## Descrição do Código Terraform
 
 Este código utiliza o Terraform para provisionar recursos na AWS (Amazon Web Services) de forma programática. Ele cria uma infraestrutura básica que inclui uma VPC, uma sub-rede, um gateway de internet, uma tabela de rotas, um grupo de segurança e uma instância EC2 com a imagem Debian 12.
